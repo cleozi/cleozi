@@ -117,8 +117,6 @@ Currently rebuilding and publishing detailed writeups and research notes from ha
 
 ###
 
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cleozi/cleozi/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cleozi/cleozi/pacman-output/pacman-contribution-graph.svg">
@@ -127,8 +125,9 @@ Currently rebuilding and publishing detailed writeups and research notes from ha
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"  />
 </div>
 
 ###
+
